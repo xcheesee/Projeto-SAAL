@@ -45,7 +45,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Lucas"/><br>
+        <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Flaviao Brabo"/><br>
         <sub>
           <b>Flavio</b>
         </sub>
@@ -61,7 +61,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/kageofwar" width="100px;" alt="Vinicim"/><br>
+        <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Green😎"/><br>
         <sub>
           <b>Gleen</b>
         </sub>
@@ -69,7 +69,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Flaviao Brabo"/><br>
+        <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Lusca"/><br>
         <sub>
           <b>Joao</b>
         </sub>
@@ -77,7 +77,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Green😎"/><br>
+        <img src="https://avatars3.githubusercontent.com/kageofwar" width="100px;" alt="Vinicim"/><br>
         <sub>
           <b>Vinicius</b>
         </sub>
