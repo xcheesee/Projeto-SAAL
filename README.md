@@ -1,28 +1,29 @@
-# Nome do projeto
+# 🐒 Projeto de desenvolvimento de solução sistemática
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
+<!---https://shields.io para outras pessoas ou para personalizar este conjunto de escudos.--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+<!---![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)--->
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="https://files.caetreinamentos.com.br/blog/wp-content/uploads/2018/11/22024008/etapas-metodo-DMAIC.png" alt="exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Objetivo: Praticar o processo de análise do problema e desenvolvimento da solução, utilizando os conhecimentos adquiridos em aula.
 
-### Ajustes e melhorias
+### 📝Artefatos desenvolvidos
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+Prática dos seguintes artefatos:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Artefato 1 - Declaração do Escopo.docx
+- [x] Artefato 2 -  Integrantes do Projeto
+- [x] Artefato 3 - Regras de Comunicação
+- [x] Artefato 4 - Glossário
+- [x] Artefato 5 - Referências
+- [x] Artefato 6 - Lista de Necessidades
 
-## 💻 Pré-requisitos
+## ❕  Objetivos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
@@ -30,7 +31,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
 * Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
-## 🚀 Instalando <nome_do_projeto>
+## ✅ Conclusão
 
 Para instalar o <nome_do_projeto>, siga estas etapas:
 
@@ -66,7 +67,7 @@ Para contribuir com <nome_do_projeto>, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 🤝 Colaboradores
+## 🤝 Integrantes
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
@@ -74,25 +75,41 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Lucas"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Flavio</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Gabigol"/><br>
         <sub>
-          <b>Mark Zuckerberg</b>
+          <b>Gabriel</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Vinicim"/><br>
         <sub>
-          <b>Steve Jobs</b>
+          <b>Gleen</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Flaviao Brabo"/><br>
+        <sub>
+          <b>Joao</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Green😎"/><br>
+        <sub>
+          <b>Vinicius</b>
         </sub>
       </a>
     </td>
@@ -104,8 +121,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#projeto-de-desenvolvimento-de-solução-sistemática)<br>
