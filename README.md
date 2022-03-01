@@ -52,7 +52,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/xinforinho">
         <img src="https://avatars3.githubusercontent.com/xinforinho" width="100px;" alt="Gabigol"/><br>
         <sub>
           <b>Gabriel</b>
@@ -68,7 +68,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/xcheesee">
         <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Lusca"/><br>
         <sub>
           <b>Joao</b>
@@ -76,7 +76,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/kageofwar">
         <img src="https://avatars3.githubusercontent.com/kageofwar" width="100px;" alt="Vinicim"/><br>
         <sub>
           <b>Vinicius</b>
