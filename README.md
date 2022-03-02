@@ -44,8 +44,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
-        <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Flaviao Brabo"/><br>
+      <a href="https://github.com/Flavio156">
+        <img src="https://avatars3.githubusercontent.com/Flavio156" width="100px;" alt="Flaviao Brabo"/><br>
         <sub>
           <b>Flavio</b>
         </sub>
