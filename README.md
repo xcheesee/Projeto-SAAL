@@ -17,7 +17,7 @@
 Prática dos seguintes artefatos:
 
 - [x] Artefato 1 - Declaração do Escopo.docx
-- [x] Artefato 2 -  Integrantes do Projeto
+- [x] Artefato 2 - Integrantes do Projeto
 - [x] Artefato 3 - Regras de Comunicação
 - [x] Artefato 4 - Glossário
 - [x] Artefato 5 - Referências
@@ -27,12 +27,12 @@ Prática dos seguintes artefatos:
 
 Com este projeto pretendemos:
 * Colocar em pratica o que foi demonstrado em aula
-* Trabalhar com o cliente para chegar a uma solucao satisfatoria
-* Trabalhar como uma equipe para que cheguemos em um consenso comum em relacao a solucao
+* Trabalhar com o cliente para chegar a uma solução satisfatória
+* Trabalhar como uma equipe para que cheguemos em um consenso comum em relação a solução
 
 ## ✅ Conclusão
 
-Com a conclusao desses artefatos vimos que eh comum desviar da solucao, criando, seja por parte da equipe ou do cliente, requisitos que ,quando observados criticamente, nao sanarao os problema do cliente. Concluimos tambem que eh necessario uma conduta objetiva e bem definida para que nao haja afastamento do objetivo no processo de elaboracao da solucao.
+Com a conclusão desses artefatos vimos que é comum desviar da solução, criando, seja por parte da equipe ou do cliente, requisitos que, quando observados criticamente, não sanarão os problemas do cliente. Concluímos também que é necessária uma conduta objetiva e bem definida para que não haja afastamento do objetivo no processo de elaboração da solução.
 
 
 ## 🤝 Integrantes
