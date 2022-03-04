@@ -25,16 +25,14 @@ Prática dos seguintes artefatos:
 
 ## ❕ Objetivos
 
-Placeholder:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* xxx `<yyy>`
+Com este projeto pretendemos:
+* Colocar em pratica o que foi demonstrado em aula
+* Trabalhar com o cliente para chegar a uma solucao satisfatoria
+* Trabalhar como uma equipe para que cheguemos em um consenso comum em relacao a solucao
 
 ## ✅ Conclusão
 
-Placeholder:
-```
-<xxxx>
-```
+Com a conclusao desses artefatos vimos que eh comum desviar da solucao, criando, seja por parte da equipe ou do cliente, requisitos que ,quando observados criticamente, nao sanarao os problema do cliente. Concluimos tambem que eh necessario uma conduta objetiva e bem definida para que nao haja afastamento do objetivo no processo de elaboracao da solucao.
 
 
 ## 🤝 Integrantes
@@ -85,6 +83,5 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒
 
 [⬆ Voltar ao topo](#projeto-de-desenvolvimento-de-solução-sistemática)<br>
