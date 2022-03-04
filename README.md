@@ -26,13 +26,13 @@ Prática dos seguintes artefatos:
 ## ❕ Objetivos
 
 Com este projeto pretendemos:
-* Colocar em pratica o que foi demonstrado em aula
-* Trabalhar com o cliente para chegar a uma solução satisfatória
-* Trabalhar como uma equipe para que cheguemos em um consenso comum em relação a solução
+* Colocar em prática o que foi demonstrado em aula.
+* Trabalhar com o cliente para chegar a uma solução satisfatória.
+* Trabalhar como uma equipe para que cheguemos em um consenso comum em relação à solução.
 
 ## ✅ Conclusão
 
-Com a conclusão desses artefatos vimos que é comum desviar da solução, criando, seja por parte da equipe ou do cliente, requisitos que, quando observados criticamente, não sanarão os problemas do cliente. Concluímos também que é necessária uma conduta objetiva e bem definida para que não haja afastamento do objetivo no processo de elaboração da solução.
+Com a conclusão desses artefatos vimos que é comum um desvio da solução, criando, seja por parte da equipe ou do cliente, requisitos que, quando observados criticamente, não sanarão os problemas do cliente. Concluímos também que é necessária uma conduta objetiva e bem definida para que não haja afastamento do objetivo no processo de elaboração da solução.
 
 
 ## 🤝 Integrantes
@@ -45,7 +45,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="https://github.com/Flavio156">
         <img src="https://avatars3.githubusercontent.com/Flavio156" width="100px;" alt="Flaviao Brabo"/><br>
         <sub>
-          <b>Flavio</b>
+          <b>Flavio Souza<br> de Oliveira</b>
         </sub>
       </a>
     </td>
@@ -53,7 +53,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="https://github.com/xinforinho">
         <img src="https://avatars3.githubusercontent.com/xinforinho" width="100px;" alt="Gabigol"/><br>
         <sub>
-          <b>Gabriel</b>
+          <b>Gabriel Oliveira<br> Santos</b>
         </sub>
       </a>
     </td>
@@ -61,7 +61,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#">
         <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Green😎"/><br>
         <sub>
-          <b>Gleen</b>
+          <b>Gleen Daphee<br> Cherry</b>
         </sub>
       </a>
     </td>
@@ -69,7 +69,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="https://github.com/xcheesee">
         <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Lusca"/><br>
         <sub>
-          <b>Joao</b>
+          <b>João Lucas Silva<br> Laurindo Cruz</b>
         </sub>
       </a>
     </td>
@@ -77,7 +77,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="https://github.com/kageofwar">
         <img src="https://avatars3.githubusercontent.com/kageofwar" width="100px;" alt="Vinicim"/><br>
         <sub>
-          <b>Vinicius</b>
+          <b>Vinicius Casotti<br> de Campos Oliveira</b>
         </sub>
       </a>
     </td>
