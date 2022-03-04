@@ -67,7 +67,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://github.com/xcheesee">
-        <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Lusca"/><br>
+        <img src="https://media-exp1.licdn.com/dms/image/C5603AQEmJKlpnkc3Zg/profile-displayphoto-shrink_200_200/0/1638044117089?e=1651708800&v=beta&t=KrD3pnE7o-2RinLuNcr7QyNngu_Nocdt67nU6zzghIs" width="100px;" alt="Lusca"/><br>
         <sub>
           <b>João Lucas Silva<br> Laurindo Cruz</b>
         </sub>
