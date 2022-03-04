@@ -32,7 +32,7 @@ Com este projeto pretendemos:
 
 ## ✅ Conclusão
 
-  Com a conclusão desses artefatos vimos que é comum um desvio da solução, criando, seja por parte da equipe ou do cliente, requisitos que, quando observados criticamente, não sanarão os problemas do cliente. Concluímos também que é necessária uma conduta objetiva e bem definida para que não haja afastamento do objetivo no processo de elaboração da solução.
+&nbsp;&nbsp;&nbsp;&nbsp;Com a conclusão desses artefatos vimos que é comum um desvio da solução, criando, seja por parte da equipe ou do cliente, requisitos que, quando observados criticamente, não sanarão os problemas do cliente. Concluímos também que é necessária uma conduta objetiva e bem definida para que não haja afastamento do objetivo no processo de elaboração da solução.
 
 
 ## 🤝 Integrantes
