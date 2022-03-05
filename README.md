@@ -16,7 +16,7 @@
 
 Prática dos seguintes artefatos:
 
-- [x] Artefato 1 - Declaração do Escopo.docx
+- [x] Artefato 1 - Declaração do Escopo
 - [x] Artefato 2 - Integrantes do Projeto
 - [x] Artefato 3 - Regras de Comunicação
 - [x] Artefato 4 - Glossário
@@ -32,7 +32,7 @@ Com este projeto pretendemos:
 
 ## ✅ Conclusão
 
-&nbsp;&nbsp;&nbsp;&nbsp;Com a conclusão desses artefatos vimos que é comum um desvio da solução, criando, seja por parte da equipe ou do cliente, requisitos que, quando observados criticamente, não sanarão os problemas do cliente. Concluímos também que é necessária uma conduta objetiva e bem definida para que não haja afastamento do objetivo no processo de elaboração da solução.
+&nbsp;&nbsp;&nbsp;&nbsp;Com a conclusão desses artefatos vimos que é comum um desvio da solução, criando, seja por parte da equipe ou do cliente, requisitos que, quando observados criticamente, não sanariam os problemas do cliente. Concluímos também que é necessária uma conduta objetiva e bem definida para que não haja afastamento do objetivo no processo de elaboração da solução.
 
 
 ## 🤝 Integrantes
