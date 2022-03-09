@@ -46,6 +46,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://avatars3.githubusercontent.com/Flavio156" width="100px;" alt="Flaviao Brabo"/><br>
         <sub>
           <b>Flavio Souza<br> de Oliveira</b>
+          <br><b>RA:2103119</b>
         </sub>
       </a>
     </td>
@@ -54,6 +55,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://avatars3.githubusercontent.com/xinforinho" width="100px;" alt="Gabigol"/><br>
         <sub>
           <b>Gabriel Oliveira<br> Santos</b>
+          <br><b>RA:2102823</b>
         </sub>
       </a>
     </td>
@@ -62,6 +64,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://media-exp1.licdn.com/dms/image/C5603AQEmJKlpnkc3Zg/profile-displayphoto-shrink_200_200/0/1638044117089?e=1651708800&v=beta&t=KrD3pnE7o-2RinLuNcr7QyNngu_Nocdt67nU6zzghIs" width="100px;" alt="Green😎"/><br>
         <sub>
           <b>Gleen Daphee<br> Cherry</b>
+          <br><b>RA:2103148</b>
         </sub>
       </a>
     </td>
@@ -70,6 +73,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://avatars3.githubusercontent.com/xcheesee" width="100px;" alt="Lusca"/><br>
         <sub>
           <b>João Lucas Silva<br> Laurindo Cruz</b>
+          <br><b>RA:2102952</b>
         </sub>
       </a>
     </td>
@@ -78,6 +82,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://avatars3.githubusercontent.com/kageofwar" width="100px;" alt="Vinicim"/><br>
         <sub>
           <b>Vinicius Casotti<br> de Campos Oliveira</b>
+          <br><b>RA:2103125</b>
         </sub>
       </a>
     </td>
