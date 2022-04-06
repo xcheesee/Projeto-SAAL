@@ -40,4 +40,10 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td>2103125</td>
   </tr>
+  <tr>
+    <td align="center">
+     <a href="https://github.com/campinasHenrique">Henrique Campinas Bastos</a>
+    </td>
+    <td>1902262</td>
+  </tr>
 </table>
