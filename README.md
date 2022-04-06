@@ -28,6 +28,12 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td>2103148</td>
   </tr>
+    <tr>
+    <td align="center">
+     <a href="https://github.com/campinasHenrique">Henrique Campinas Bastos</a>
+    </td>
+    <td>1902262</td>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/xcheesee">João Lucas Silva Laurindo Cruz</a>
@@ -39,11 +45,5 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="https://github.com/kageofwar">Vinicius Casotti de Campos Oliveira</a>
     </td>
     <td>2103125</td>
-  </tr>
-  <tr>
-    <td align="center">
-     <a href="https://github.com/campinasHenrique">Henrique Campinas Bastos</a>
-    </td>
-    <td>1902262</td>
   </tr>
 </table>
