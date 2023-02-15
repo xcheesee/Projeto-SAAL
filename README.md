@@ -21,5 +21,13 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="https://github.com/xcheesee">João Lucas Silva Laurindo Cruz</a>
     </td>
     <td>2102952</td>
+    
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/xcheesee">Gabriel Oliveira Santos Cruz</a>
+    </td>
+    <td>2102823</td>
+    
   </tr>
 </table>
